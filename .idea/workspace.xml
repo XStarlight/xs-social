@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab093f14-2f88-4001-8b5a-25494af77e6c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="react-xs-1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YWe5hll0yl79FuIx3mjw4Nv0PL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Dialogs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Smartphone\IT\react\projects\pr1\react-xs-1\src\components\Dialogs" />
+      <recent name="C:\Smartphone\IT\react\projects\pr1\react-xs-1\src\components\Profile\MyPosts" />
+      <recent name="C:\Smartphone\IT\react\projects\pr1\react-xs-1\src\components\Profile\MyPosts\Post" />
+      <recent name="C:\Smartphone\IT\react\projects\pr1\react-xs-1\src\components" />
+      <recent name="C:\Smartphone\IT\react\projects\pr1\react-xs-1\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Smartphone\IT\react\projects\pr1\react-xs-1\src\components\Profile" />
+      <recent name="C:\Smartphone\IT\react\projects\pr1\react-xs-1\src\components\Navbar" />
+      <recent name="C:\Smartphone\IT\react\projects\pr1\react-xs-1\src\components\Header" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.deploy">
+    <configuration name="Array length should be decremented" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/redux/profile-reducer.test.js" />
+      <test-names>
+        <test-name value="Array length should be decremented" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Array length should be incremented" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/redux/profile-reducer.test.js" />
+      <test-names>
+        <test-name value="Array length should be incremented" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="Jest.Array length should be incremented" />
+        <item itemvalue="Jest.Array length should be decremented" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab093f14-2f88-4001-8b5a-25494af77e6c" name="Default Changelist" comment="" />
+      <created>1583062595329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583062595329</updated>
+      <workItem from="1583062596945" duration="7395000" />
+      <workItem from="1583152813809" duration="10690000" />
+      <workItem from="1583230672557" duration="17056000" />
+      <workItem from="1583302500422" duration="10644000" />
+      <workItem from="1583326205926" duration="5724000" />
+      <workItem from="1583413630493" duration="9888000" />
+      <workItem from="1583503693768" duration="12476000" />
+      <workItem from="1583562135968" duration="14957000" />
+      <workItem from="1583651090166" duration="11925000" />
+      <workItem from="1583739525042" duration="12748000" />
+      <workItem from="1583847197352" duration="10753000" />
+      <workItem from="1583912736081" duration="3632000" />
+      <workItem from="1583931668125" duration="6517000" />
+      <workItem from="1584019006576" duration="4584000" />
+      <workItem from="1584089712645" duration="4097000" />
+      <workItem from="1584112584521" duration="3038000" />
+      <workItem from="1584165924643" duration="12142000" />
+      <workItem from="1584253758441" duration="634000" />
+      <workItem from="1584261423919" duration="14181000" />
+      <workItem from="1584364856982" duration="6598000" />
+      <workItem from="1584518306593" duration="6156000" />
+      <workItem from="1584689096319" duration="8372000" />
+      <workItem from="1584720858868" duration="3462000" />
+      <workItem from="1584949003141" duration="7763000" />
+      <workItem from="1585051614004" duration="4355000" />
+      <workItem from="1585303758547" duration="2213000" />
+      <workItem from="1585378089869" duration="10978000" />
+      <workItem from="1585471131621" duration="8795000" />
+      <workItem from="1585657073740" duration="4955000" />
+      <workItem from="1585909165304" duration="10456000" />
+      <workItem from="1586083143415" duration="4178000" />
+      <workItem from="1586175918390" duration="1225000" />
+      <workItem from="1586423857673" duration="3220000" />
+      <workItem from="1586609856404" duration="6767000" />
+      <workItem from="1586847633181" duration="5744000" />
+      <workItem from="1586933663975" duration="11906000" />
+      <workItem from="1587201708934" duration="11048000" />
+      <workItem from="1587621531373" duration="1704000" />
+      <workItem from="1588228913053" duration="1800000" />
+      <workItem from="1588858941704" duration="2112000" />
+      <workItem from="1589193651696" duration="4843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

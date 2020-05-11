@@ -1,0 +1,7 @@
+.sp {
+   display: grid;
+    color: white;
+    grid-template-columns: 3;
+    grid-template-rows: 1;
+    border-radius: revert;
+}
