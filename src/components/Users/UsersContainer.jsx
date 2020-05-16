@@ -14,7 +14,8 @@ import {
 
 class UsersContainer extends React.Component {
     componentDidMount() {
-        this.props.getUsers(this.props.currentPage, this.props.pageSize)
+        const {currentPage, pageSize} = this.props;
+        this.props.getUsers(currentPage, pageSize)
     }
 
     onPageChanged = (pageNumber) => {
@@ -23,7 +24,10 @@ class UsersContainer extends React.Component {
 
     render() {
         return <>
-            {this.props.isFetching ? <Preloader/> : null}
+            {this.props.isFetching ? <Preloader style={{
+                gridColumnStart: 2,
+                gridColumnEnd: 'five', gridRowStart: 'row1-start', gridRowEnd: 3
+            }}/> : null}
             <Users
                 totalUsersCount={this.props.totalUsersCount}
                 pageSize={this.props.pageSize}

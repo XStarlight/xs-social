@@ -10,14 +10,14 @@ import styles from '../common/formsControl/FormsControl.module.css'
 const Input = Element('input');
 const maxLength30 = MaxLengthCreator(30);
 
-const LoginForm = (props) => {
-    return <form onSubmit={props.handleSubmit}>
+const LoginForm = ({handleSubmit, error}) => {
+    return <form onSubmit={handleSubmit}>
         <div><Field validate={[required, maxLength30]} name='email' placeholder={'Email'} component={Input}/></div>
         <div><Field validate={[required, maxLength30]} name='password' type={'password'} placeholder={'Password'}
                     component={Input}/></div>
         <div><Field name='rememberMe' type='checkbox' component='input'/>remember me</div>
-        {props.error && <div className={styles.formSummaryError}>
-            {props.error}
+        {error && <div className={styles.formSummaryError}>
+            {error}
         </div>}
         <div>
             <button>Login</button>
@@ -35,7 +35,7 @@ const Login = (props) => {
         props.login(formData.email, formData.password, formData.rememberMe)
     };
 
-    if (props.isAuth){
+    if (props.isAuth) {
         return <Redirect to={'/profile'}/>
     }
 

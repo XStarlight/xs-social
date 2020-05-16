@@ -1,3 +1,16 @@
-.descriptionBlock{
+.descriptionBlock {
     padding: 10px;
+}
+
+.avatar {
+    max-width: 300px;
+}
+
+.banner {
+    width: 1000px;
+    height: 200px;
+}
+
+.info {
+
 }

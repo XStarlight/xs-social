@@ -8,7 +8,7 @@ import {Element} from "../../common/formsControl/FormsControl";
 const MyPosts = (props) => {
 
     let postsElements = props.posts
-        .map(p => <Post message={p.message} likesCount={p.likesCount}/>);
+        .map((p, index) => <Post key={index} message={p.message} likesCount={p.likesCount}/>);
 
     let addPost = (values) => {
         props.addPost(values.newPostText)

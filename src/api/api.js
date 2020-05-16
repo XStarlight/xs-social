@@ -20,7 +20,6 @@ export const usersAPI = {
         return instance.delete(`follow/${userId}`)
     },
     profile(userId) {
-        console.warn('Use another API')
         return profileAPI.profile(userId)
     }
 };
@@ -34,6 +33,18 @@ export const profileAPI = {
     },
     updateStatus(status) {
         return instance.put('profile/status', {status: status})
+    },
+    saveAvatar(avatarFile) {
+        const formData = new FormData();
+        formData.append('image', avatarFile);
+        return instance.put('profile/photo', formData, {
+            headers: {
+                'Content-type': 'multipart/form-data'
+            }
+        })
+    },
+    saveProfile(profile) {
+        return instance.put('profile', profile)
     }
 };
 
